@@ -256,7 +256,7 @@ const HomePage: React.FC = () => {
               img: "https://otimafm.com.br/uploads/u1788269431332a4a316.jpg",
               alt: "Música e Entretenimento",
               title: "Se tá na Ótima tá bom demais",
-              text: "Músicas de qulidade sertanejas Brasileiras ",
+              text: "Músicas de qualidade sertanejas Brasileiras ",
             },
             {
               href: "https://radioliberdade.com.br/",
